@@ -1,3 +1,3 @@
 # python-nltk-2
 
-![result-via-vs-code](https://ibb.co/2MNHn9V)
+![result-via-vs-code](https://i.ibb.co/my8gDjZ/result-vscode.png)
